@@ -39,3 +39,14 @@ This Flight Price Prediction System is a data-driven project developed in Python
 ## Conclusion
 
 The Flight Price Prediction System is a practical application of machine learning, leveraging data analysis to tackle real-world challenges in the travel industry. By providing accurate price estimates, this project has the potential to save costs for travelers and create value for travel service providers. With future improvements like incorporating additional factors (e.g., seasonal trends or economic indicators), the system can become even more accurate and versatile.
+
+
+![f1](https://github.com/user-attachments/assets/565c19bd-298a-4575-9032-a831571a7ec2)
+![f2](https://github.com/user-attachments/assets/d81a0e4e-981c-4e96-84bd-aae12c400578)
+![f3](https://github.com/user-attachments/assets/fe6653ea-3003-428a-bc6f-dc7ac70fe466)
+![f4](https://github.com/user-attachments/assets/b02188f0-8efa-42c3-8232-49bb68f5986f)
+![f5](https://github.com/user-attachments/assets/ef88a95e-33d4-4627-8271-38c0c5081a21)
+![f6](https://github.com/user-attachments/assets/2561265b-87e3-4be4-8e4d-0ce528277fdb)
+![f7](https://github.com/user-attachments/assets/5abe5961-a896-45dd-aeb9-116afd20e327)
+
+
